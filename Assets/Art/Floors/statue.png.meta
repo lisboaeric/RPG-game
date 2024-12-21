@@ -1,0 +1,5489 @@
+fileFormatVersion: 2
+guid: 236926fbd929d1340bba3bc050f00521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1281561869029008246
+    second: cloud_tileset_0
+  - first:
+      213: -861904479337372660
+    second: cloud_tileset_1
+  - first:
+      213: 4944285932716353041
+    second: cloud_tileset_2
+  - first:
+      213: -5860098159382372777
+    second: cloud_tileset_3
+  - first:
+      213: -4580188878974982932
+    second: cloud_tileset_4
+  - first:
+      213: 4521487918186969067
+    second: cloud_tileset_5
+  - first:
+      213: -2449597750072978205
+    second: cloud_tileset_6
+  - first:
+      213: -6506756518356071008
+    second: cloud_tileset_7
+  - first:
+      213: 4117353406176947700
+    second: cloud_tileset_8
+  - first:
+      213: 7605201385808153909
+    second: cloud_tileset_9
+  - first:
+      213: -1915686371719634115
+    second: cloud_tileset_10
+  - first:
+      213: -832053530583731917
+    second: cloud_tileset_11
+  - first:
+      213: -3531780242488248450
+    second: cloud_tileset_12
+  - first:
+      213: -6084453678952247377
+    second: cloud_tileset_13
+  - first:
+      213: 7089912920202902557
+    second: cloud_tileset_14
+  - first:
+      213: -6080757750174646891
+    second: cloud_tileset_15
+  - first:
+      213: 5170060601492552665
+    second: cloud_tileset_16
+  - first:
+      213: -1515383267602076699
+    second: cloud_tileset_17
+  - first:
+      213: 6199897017936395111
+    second: cloud_tileset_18
+  - first:
+      213: -3724160267734545574
+    second: cloud_tileset_19
+  - first:
+      213: 4001959752365170558
+    second: cloud_tileset_20
+  - first:
+      213: -3110775199353429818
+    second: cloud_tileset_21
+  - first:
+      213: -7340858045161053856
+    second: cloud_tileset_22
+  - first:
+      213: 8445934461762537137
+    second: cloud_tileset_23
+  - first:
+      213: -5224070151532775074
+    second: cloud_tileset_24
+  - first:
+      213: 3635366637702651004
+    second: cloud_tileset_25
+  - first:
+      213: 523305462556490348
+    second: cloud_tileset_26
+  - first:
+      213: 4037620614665530091
+    second: cloud_tileset_27
+  - first:
+      213: 313445636177119196
+    second: cloud_tileset_28
+  - first:
+      213: 3764592079431817676
+    second: cloud_tileset_29
+  - first:
+      213: 6270166922082255239
+    second: cloud_tileset_30
+  - first:
+      213: 1627749499858195354
+    second: cloud_tileset_31
+  - first:
+      213: -975134887144621166
+    second: cloud_tileset_32
+  - first:
+      213: 1172874112477619413
+    second: cloud_tileset_33
+  - first:
+      213: -1799578219428888319
+    second: cloud_tileset_34
+  - first:
+      213: 6629041030551503520
+    second: cloud_tileset_35
+  - first:
+      213: 1791642942639236600
+    second: cloud_tileset_36
+  - first:
+      213: 620108213756389540
+    second: cloud_tileset_37
+  - first:
+      213: -4129815994733007766
+    second: cloud_tileset_38
+  - first:
+      213: -2933910757462472625
+    second: cloud_tileset_39
+  - first:
+      213: 8752343614755015079
+    second: cloud_tileset_40
+  - first:
+      213: -8548245912875892420
+    second: cloud_tileset_41
+  - first:
+      213: 679570813128327424
+    second: cloud_tileset_42
+  - first:
+      213: 2622889150484567117
+    second: cloud_tileset_43
+  - first:
+      213: -377062307731264237
+    second: cloud_tileset_44
+  - first:
+      213: -8823819287332497974
+    second: cloud_tileset_45
+  - first:
+      213: 4724800855063687278
+    second: cloud_tileset_46
+  - first:
+      213: -4850596392756677308
+    second: cloud_tileset_47
+  - first:
+      213: 3285548853160404355
+    second: cloud_tileset_48
+  - first:
+      213: -4301259082765013308
+    second: cloud_tileset_49
+  - first:
+      213: 1519955262326477466
+    second: cloud_tileset_50
+  - first:
+      213: 9161645462984250959
+    second: cloud_tileset_51
+  - first:
+      213: -5895891211934213423
+    second: cloud_tileset_52
+  - first:
+      213: 8606962026945812915
+    second: cloud_tileset_53
+  - first:
+      213: -4739859328227639933
+    second: cloud_tileset_54
+  - first:
+      213: 3590269456519131494
+    second: cloud_tileset_55
+  - first:
+      213: 8114037812230547931
+    second: cloud_tileset_56
+  - first:
+      213: -2643873712825585968
+    second: cloud_tileset_57
+  - first:
+      213: -4450535746496973818
+    second: cloud_tileset_58
+  - first:
+      213: 253942015527120487
+    second: cloud_tileset_59
+  - first:
+      213: 304033614548887192
+    second: cloud_tileset_60
+  - first:
+      213: -4518235619675366452
+    second: cloud_tileset_61
+  - first:
+      213: -3179476037551680726
+    second: cloud_tileset_62
+  - first:
+      213: -773235769411005957
+    second: cloud_tileset_63
+  - first:
+      213: 1309792284700100337
+    second: cloud_tileset_64
+  - first:
+      213: -6682784585441474043
+    second: cloud_tileset_65
+  - first:
+      213: 1021490088804511500
+    second: cloud_tileset_66
+  - first:
+      213: 6997756427601308620
+    second: cloud_tileset_67
+  - first:
+      213: -8849900787698409870
+    second: cloud_tileset_68
+  - first:
+      213: 2048771000740856167
+    second: cloud_tileset_69
+  - first:
+      213: 83199152005150840
+    second: cloud_tileset_70
+  - first:
+      213: -6194863942547417170
+    second: cloud_tileset_71
+  - first:
+      213: 3475474470590493375
+    second: cloud_tileset_72
+  - first:
+      213: 5639039405614209530
+    second: cloud_tileset_73
+  - first:
+      213: 497711478228409787
+    second: cloud_tileset_74
+  - first:
+      213: 4743000776731947752
+    second: cloud_tileset_75
+  - first:
+      213: 2354527091486702323
+    second: cloud_tileset_76
+  - first:
+      213: -4179339992128821661
+    second: cloud_tileset_77
+  - first:
+      213: -7797499785117584749
+    second: cloud_tileset_78
+  - first:
+      213: 6928184698083829484
+    second: cloud_tileset_79
+  - first:
+      213: -4027685811865351582
+    second: cloud_tileset_80
+  - first:
+      213: -7958986798729495353
+    second: cloud_tileset_81
+  - first:
+      213: 7684235903072507469
+    second: cloud_tileset_82
+  - first:
+      213: -464999981746760890
+    second: cloud_tileset_83
+  - first:
+      213: 3187865829913394207
+    second: cloud_tileset_84
+  - first:
+      213: 6302009119655257192
+    second: cloud_tileset_85
+  - first:
+      213: 7476728970282269955
+    second: cloud_tileset_86
+  - first:
+      213: 5417123964496284453
+    second: cloud_tileset_87
+  - first:
+      213: -6714315915453555713
+    second: cloud_tileset_88
+  - first:
+      213: -3875169268252508834
+    second: cloud_tileset_89
+  - first:
+      213: -9131962123814598487
+    second: cloud_tileset_90
+  - first:
+      213: 7331252981077650937
+    second: cloud_tileset_91
+  - first:
+      213: 6183643655448242411
+    second: cloud_tileset_92
+  - first:
+      213: 1421169544912209841
+    second: cloud_tileset_93
+  - first:
+      213: 1837318789351840437
+    second: cloud_tileset_94
+  - first:
+      213: -4621046216013658058
+    second: cloud_tileset_95
+  - first:
+      213: 3100399193289302937
+    second: cloud_tileset_96
+  - first:
+      213: -3806602616227026468
+    second: cloud_tileset_97
+  - first:
+      213: 5222844365897270999
+    second: cloud_tileset_98
+  - first:
+      213: -8592896560162401254
+    second: cloud_tileset_99
+  - first:
+      213: 285520027428331712
+    second: cloud_tileset_100
+  - first:
+      213: -3961913225405918683
+    second: cloud_tileset_101
+  - first:
+      213: 7056023837797576861
+    second: cloud_tileset_102
+  - first:
+      213: -8769308476590320058
+    second: cloud_tileset_103
+  - first:
+      213: -8054879206694957207
+    second: cloud_tileset_104
+  - first:
+      213: -5742777338498294912
+    second: cloud_tileset_105
+  - first:
+      213: 4952571947221637616
+    second: cloud_tileset_106
+  - first:
+      213: 8786864614193803280
+    second: cloud_tileset_107
+  - first:
+      213: -5781981800108178601
+    second: cloud_tileset_108
+  - first:
+      213: -8749576720753433894
+    second: cloud_tileset_109
+  - first:
+      213: -1071586250936168111
+    second: cloud_tileset_110
+  - first:
+      213: 4511678400126247282
+    second: cloud_tileset_111
+  - first:
+      213: -7232635476448007822
+    second: cloud_tileset_112
+  - first:
+      213: -1406051993716351628
+    second: cloud_tileset_113
+  - first:
+      213: 3659804941900289202
+    second: cloud_tileset_114
+  - first:
+      213: 1284762262342166727
+    second: cloud_tileset_115
+  - first:
+      213: -6678086541614919591
+    second: cloud_tileset_116
+  - first:
+      213: 1804335929199887097
+    second: cloud_tileset_117
+  - first:
+      213: 7136121634251097570
+    second: cloud_tileset_118
+  - first:
+      213: 7353565391221694906
+    second: cloud_tileset_119
+  - first:
+      213: -3210716268716617243
+    second: cloud_tileset_120
+  - first:
+      213: 5558774206419628881
+    second: cloud_tileset_121
+  - first:
+      213: 4660456275570016904
+    second: cloud_tileset_122
+  - first:
+      213: -4152778239577819842
+    second: cloud_tileset_123
+  - first:
+      213: 4999742545960679594
+    second: cloud_tileset_124
+  - first:
+      213: 7738752995479757731
+    second: cloud_tileset_125
+  - first:
+      213: -8604132782417633621
+    second: cloud_tileset_126
+  - first:
+      213: -4672611804439084046
+    second: cloud_tileset_127
+  - first:
+      213: -5238544805860387266
+    second: cloud_tileset_128
+  - first:
+      213: 7755247075330853295
+    second: cloud_tileset_129
+  - first:
+      213: 4805573983198753966
+    second: cloud_tileset_130
+  - first:
+      213: -6805495549494322572
+    second: cloud_tileset_131
+  - first:
+      213: -7703544947246386058
+    second: cloud_tileset_132
+  - first:
+      213: 5625160113705092648
+    second: cloud_tileset_133
+  - first:
+      213: -2063922480960876144
+    second: cloud_tileset_134
+  - first:
+      213: 9188139972616836348
+    second: cloud_tileset_135
+  - first:
+      213: 7817281258352007613
+    second: cloud_tileset_136
+  - first:
+      213: 5525211948671152336
+    second: cloud_tileset_137
+  - first:
+      213: -6664790249257196811
+    second: cloud_tileset_138
+  - first:
+      213: 417573890397565523
+    second: cloud_tileset_139
+  - first:
+      213: -4861109060264208438
+    second: cloud_tileset_140
+  - first:
+      213: 717993350931857051
+    second: cloud_tileset_141
+  - first:
+      213: 853488929267422072
+    second: cloud_tileset_142
+  - first:
+      213: 1387754672185233232
+    second: cloud_tileset_143
+  - first:
+      213: 9191339223615531775
+    second: cloud_tileset_144
+  - first:
+      213: 5122843936757884696
+    second: cloud_tileset_145
+  - first:
+      213: 2708715155000298294
+    second: cloud_tileset_146
+  - first:
+      213: -13014519906802252
+    second: cloud_tileset_147
+  - first:
+      213: -2972312432769031932
+    second: cloud_tileset_148
+  - first:
+      213: 3295029942635664626
+    second: cloud_tileset_149
+  - first:
+      213: 1960616597694832230
+    second: cloud_tileset_150
+  - first:
+      213: 2065127583475899875
+    second: cloud_tileset_151
+  - first:
+      213: 3763803338135204133
+    second: cloud_tileset_152
+  - first:
+      213: -4348585915158171227
+    second: cloud_tileset_153
+  - first:
+      213: 1659660385991176248
+    second: cloud_tileset_154
+  - first:
+      213: -6309017839985464611
+    second: cloud_tileset_155
+  - first:
+      213: -8815884145410902510
+    second: cloud_tileset_156
+  - first:
+      213: 4877161509598039800
+    second: cloud_tileset_157
+  - first:
+      213: 8075933597685320495
+    second: cloud_tileset_158
+  - first:
+      213: -4610587959892251723
+    second: cloud_tileset_159
+  - first:
+      213: -830642724827588585
+    second: cloud_tileset_160
+  - first:
+      213: 7864296395213153714
+    second: cloud_tileset_161
+  - first:
+      213: 7804311016993174425
+    second: cloud_tileset_162
+  - first:
+      213: 590745977261504257
+    second: cloud_tileset_163
+  - first:
+      213: -7964420933121586179
+    second: cloud_tileset_164
+  - first:
+      213: -6477722940252757847
+    second: cloud_tileset_165
+  - first:
+      213: -6126549052805905497
+    second: cloud_tileset_166
+  - first:
+      213: -6801576088781882321
+    second: cloud_tileset_167
+  - first:
+      213: -3559075779686107412
+    second: cloud_tileset_168
+  - first:
+      213: 4478328610032962739
+    second: cloud_tileset_169
+  - first:
+      213: 680846956654919754
+    second: cloud_tileset_170
+  - first:
+      213: -297522475293308664
+    second: cloud_tileset_171
+  - first:
+      213: 8008527654265029180
+    second: cloud_tileset_172
+  - first:
+      213: -3380745092854979818
+    second: cloud_tileset_173
+  - first:
+      213: -8040250323306689029
+    second: cloud_tileset_174
+  - first:
+      213: -2364252756844685140
+    second: cloud_tileset_175
+  - first:
+      213: -8952836164990808117
+    second: cloud_tileset_176
+  - first:
+      213: -2435172241552875597
+    second: cloud_tileset_177
+  - first:
+      213: 5666210913988606318
+    second: cloud_tileset_178
+  - first:
+      213: -5309167509490463005
+    second: cloud_tileset_179
+  - first:
+      213: 8937185700098122669
+    second: cloud_tileset_180
+  - first:
+      213: -5165479513294678354
+    second: cloud_tileset_181
+  - first:
+      213: 7702799779955411612
+    second: cloud_tileset_182
+  - first:
+      213: 7512294214015299852
+    second: cloud_tileset_183
+  - first:
+      213: -4599438187645221985
+    second: cloud_tileset_184
+  - first:
+      213: 631946962471184286
+    second: cloud_tileset_185
+  - first:
+      213: -9113307497673161874
+    second: cloud_tileset_186
+  - first:
+      213: 4362053420874347685
+    second: cloud_tileset_187
+  - first:
+      213: -4049750863440491089
+    second: cloud_tileset_188
+  - first:
+      213: 916540267230090990
+    second: cloud_tileset_189
+  - first:
+      213: 6152870752738651695
+    second: cloud_tileset_190
+  - first:
+      213: 8958899361796958842
+    second: cloud_tileset_191
+  - first:
+      213: -3176499491225180300
+    second: cloud_tileset_192
+  - first:
+      213: -5842098795771520929
+    second: cloud_tileset_193
+  - first:
+      213: 1704998721523525347
+    second: cloud_tileset_194
+  - first:
+      213: 6703417835895956889
+    second: cloud_tileset_195
+  - first:
+      213: 1211057778411685075
+    second: cloud_tileset_196
+  - first:
+      213: 2566849940190177904
+    second: cloud_tileset_197
+  - first:
+      213: -3707966760782141514
+    second: cloud_tileset_198
+  - first:
+      213: -6042358278220462168
+    second: cloud_tileset_199
+  - first:
+      213: -1227307620732157339
+    second: cloud_tileset_200
+  - first:
+      213: -5178508543816412727
+    second: cloud_tileset_201
+  - first:
+      213: 6500896172999650177
+    second: cloud_tileset_202
+  - first:
+      213: -125524475795494557
+    second: cloud_tileset_203
+  - first:
+      213: -2997361264712855513
+    second: cloud_tileset_204
+  - first:
+      213: 4930840961156808439
+    second: cloud_tileset_205
+  - first:
+      213: -3358945182400626848
+    second: cloud_tileset_206
+  - first:
+      213: 6147236782050195271
+    second: cloud_tileset_207
+  - first:
+      213: -6932629584728727695
+    second: cloud_tileset_208
+  - first:
+      213: 1307601072150462814
+    second: cloud_tileset_209
+  - first:
+      213: 5179540754508307906
+    second: cloud_tileset_210
+  - first:
+      213: 819007482867515705
+    second: cloud_tileset_211
+  - first:
+      213: 1211403418543028510
+    second: cloud_tileset_212
+  - first:
+      213: -4742656227076331495
+    second: cloud_tileset_213
+  - first:
+      213: 862318905490962592
+    second: cloud_tileset_214
+  - first:
+      213: -6357130839116823150
+    second: cloud_tileset_215
+  - first:
+      213: -8419339313793779623
+    second: cloud_tileset_216
+  - first:
+      213: -4698381165511229216
+    second: cloud_tileset_217
+  - first:
+      213: -1623159734758091077
+    second: cloud_tileset_218
+  - first:
+      213: 6475102407775646392
+    second: cloud_tileset_219
+  - first:
+      213: 692736012858071288
+    second: cloud_tileset_220
+  - first:
+      213: 6283331161840899774
+    second: cloud_tileset_221
+  - first:
+      213: -1087661786772418185
+    second: cloud_tileset_222
+  - first:
+      213: -26490189622851163
+    second: cloud_tileset_223
+  - first:
+      213: -2986061084756460329
+    second: cloud_tileset_224
+  - first:
+      213: -1426558033126026016
+    second: cloud_tileset_225
+  - first:
+      213: -3752922862757442610
+    second: cloud_tileset_226
+  - first:
+      213: -5461862730253375932
+    second: cloud_tileset_227
+  - first:
+      213: -3649594440598901790
+    second: cloud_tileset_228
+  - first:
+      213: -5914675880999138031
+    second: cloud_tileset_229
+  - first:
+      213: -2065678435794810762
+    second: cloud_tileset_230
+  - first:
+      213: 1045722181277382150
+    second: cloud_tileset_231
+  - first:
+      213: 1959285039359609098
+    second: cloud_tileset_232
+  - first:
+      213: -5502837856448509870
+    second: cloud_tileset_233
+  - first:
+      213: 2942421446255006357
+    second: cloud_tileset_234
+  - first:
+      213: 877981550179982283
+    second: cloud_tileset_235
+  - first:
+      213: -8076040673230650621
+    second: cloud_tileset_236
+  - first:
+      213: 7938891990653031667
+    second: cloud_tileset_237
+  - first:
+      213: -7337310015443013264
+    second: cloud_tileset_238
+  - first:
+      213: -6966390592927806877
+    second: cloud_tileset_239
+  - first:
+      213: 5523067510813608030
+    second: cloud_tileset_240
+  - first:
+      213: -2676825921894771511
+    second: cloud_tileset_241
+  - first:
+      213: -7586150712457324686
+    second: cloud_tileset_242
+  - first:
+      213: -55341369513982366
+    second: cloud_tileset_243
+  - first:
+      213: 4705003899529863259
+    second: cloud_tileset_244
+  - first:
+      213: 6710808277030030018
+    second: cloud_tileset_245
+  - first:
+      213: -5888899313512211370
+    second: cloud_tileset_246
+  - first:
+      213: 9176302111346514718
+    second: cloud_tileset_247
+  - first:
+      213: 397866530760413566
+    second: cloud_tileset_248
+  - first:
+      213: 1387393926496348939
+    second: cloud_tileset_249
+  - first:
+      213: 7207322436708688559
+    second: cloud_tileset_250
+  - first:
+      213: 4192357651225536253
+    second: cloud_tileset_251
+  - first:
+      213: 6643418023955838929
+    second: cloud_tileset_252
+  - first:
+      213: -2363893810187710115
+    second: cloud_tileset_253
+  - first:
+      213: -1154041446345058591
+    second: cloud_tileset_254
+  - first:
+      213: -3158032020301009983
+    second: cloud_tileset_255
+  - first:
+      213: -6669369445739838249
+    second: cloud_tileset_256
+  - first:
+      213: -8477936615262626848
+    second: cloud_tileset_257
+  - first:
+      213: -6230628633841644247
+    second: cloud_tileset_258
+  - first:
+      213: 1422731625358274122
+    second: cloud_tileset_259
+  - first:
+      213: -4158285994029153165
+    second: cloud_tileset_260
+  - first:
+      213: -4702816802448288948
+    second: cloud_tileset_261
+  - first:
+      213: -8406099361011711415
+    second: cloud_tileset_262
+  - first:
+      213: 1080692997068133436
+    second: cloud_tileset_263
+  - first:
+      213: 6191161052258621422
+    second: cloud_tileset_264
+  - first:
+      213: -987478760778943126
+    second: cloud_tileset_265
+  - first:
+      213: 1744496548933980479
+    second: cloud_tileset_266
+  - first:
+      213: 8533997783331069997
+    second: cloud_tileset_267
+  - first:
+      213: -9200820496596996832
+    second: cloud_tileset_268
+  - first:
+      213: -415864649964472524
+    second: cloud_tileset_269
+  - first:
+      213: -7096571115365595191
+    second: cloud_tileset_270
+  - first:
+      213: -1534461035246614578
+    second: cloud_tileset_271
+  - first:
+      213: -2917638902100587655
+    second: cloud_tileset_272
+  - first:
+      213: -2972199850956539378
+    second: cloud_tileset_273
+  - first:
+      213: -5919791338857674165
+    second: cloud_tileset_274
+  - first:
+      213: -6994718251591711222
+    second: cloud_tileset_275
+  - first:
+      213: -321584004382774074
+    second: cloud_tileset_276
+  - first:
+      213: -7946131356456530626
+    second: cloud_tileset_277
+  - first:
+      213: -4823239778036004098
+    second: cloud_tileset_278
+  - first:
+      213: 4665903904594898021
+    second: cloud_tileset_279
+  - first:
+      213: 5418875073885112555
+    second: cloud_tileset_280
+  - first:
+      213: 2174261520761995071
+    second: cloud_tileset_281
+  - first:
+      213: 216293555369163585
+    second: cloud_tileset_282
+  - first:
+      213: -2881076070543801307
+    second: cloud_tileset_283
+  - first:
+      213: -4773673554265985905
+    second: cloud_tileset_284
+  - first:
+      213: -1926910101492724606
+    second: cloud_tileset_285
+  - first:
+      213: -3337441168343079058
+    second: cloud_tileset_286
+  - first:
+      213: 286712635643558723
+    second: cloud_tileset_287
+  - first:
+      213: 1205738149163510932
+    second: cloud_tileset_288
+  - first:
+      213: -8343259956865465245
+    second: cloud_tileset_289
+  - first:
+      213: 4482123166942440850
+    second: cloud_tileset_290
+  - first:
+      213: 2496482664184862524
+    second: cloud_tileset_291
+  - first:
+      213: 4261070331209047120
+    second: cloud_tileset_292
+  - first:
+      213: 8082007057111209433
+    second: cloud_tileset_293
+  - first:
+      213: 1069841664209450511
+    second: cloud_tileset_294
+  - first:
+      213: 6886019560902562256
+    second: cloud_tileset_295
+  - first:
+      213: 3759305122499800386
+    second: cloud_tileset_296
+  - first:
+      213: 5777157007660512651
+    second: cloud_tileset_297
+  - first:
+      213: 4284670835273624537
+    second: cloud_tileset_298
+  - first:
+      213: 3236376854130663256
+    second: cloud_tileset_299
+  - first:
+      213: 1001143703028732079
+    second: cloud_tileset_300
+  - first:
+      213: -5056166111576577208
+    second: cloud_tileset_301
+  - first:
+      213: 1460401195160715184
+    second: cloud_tileset_302
+  - first:
+      213: -5810995690059740078
+    second: cloud_tileset_303
+  - first:
+      213: -3979591682061617205
+    second: cloud_tileset_304
+  - first:
+      213: -3589775156624199075
+    second: cloud_tileset_305
+  - first:
+      213: 6921995584812696375
+    second: cloud_tileset_306
+  - first:
+      213: 2167795320771880776
+    second: cloud_tileset_307
+  - first:
+      213: -3027215670162349901
+    second: cloud_tileset_308
+  - first:
+      213: 128669429138349632
+    second: cloud_tileset_309
+  - first:
+      213: 2422599149873679297
+    second: cloud_tileset_310
+  - first:
+      213: -4910965545606810687
+    second: cloud_tileset_311
+  - first:
+      213: 8318547434486323442
+    second: cloud_tileset_312
+  - first:
+      213: -6157134589182400340
+    second: cloud_tileset_313
+  - first:
+      213: 5253681585305326130
+    second: cloud_tileset_314
+  - first:
+      213: -4575660977854025799
+    second: cloud_tileset_315
+  - first:
+      213: 8839981198135959757
+    second: cloud_tileset_316
+  - first:
+      213: 49931493152739049
+    second: cloud_tileset_317
+  - first:
+      213: 7813226808167860292
+    second: cloud_tileset_318
+  - first:
+      213: -1617046917522423853
+    second: cloud_tileset_319
+  - first:
+      213: -6893925987587744155
+    second: cloud_tileset_320
+  - first:
+      213: -8296077366894767978
+    second: cloud_tileset_321
+  - first:
+      213: 8778236908293722045
+    second: cloud_tileset_322
+  - first:
+      213: 5889603437913205281
+    second: cloud_tileset_323
+  - first:
+      213: 7038591185923420559
+    second: cloud_tileset_324
+  - first:
+      213: 856195004767974042
+    second: cloud_tileset_325
+  - first:
+      213: -7456789578803060416
+    second: cloud_tileset_326
+  - first:
+      213: -8592627102139336133
+    second: cloud_tileset_327
+  - first:
+      213: 6170195446024575242
+    second: cloud_tileset_328
+  - first:
+      213: -2158065720790825978
+    second: cloud_tileset_329
+  - first:
+      213: 6124412594623673627
+    second: cloud_tileset_330
+  - first:
+      213: 6407235201181561103
+    second: cloud_tileset_331
+  - first:
+      213: 31949356153507235
+    second: cloud_tileset_332
+  - first:
+      213: 4651442215696331514
+    second: cloud_tileset_333
+  - first:
+      213: 6345756655938652228
+    second: cloud_tileset_334
+  - first:
+      213: -4300120619869856555
+    second: cloud_tileset_335
+  - first:
+      213: -3252797019172547684
+    second: cloud_tileset_336
+  - first:
+      213: -8746351128901179639
+    second: cloud_tileset_337
+  - first:
+      213: -7413598238390986297
+    second: cloud_tileset_338
+  - first:
+      213: 3655843839887131565
+    second: cloud_tileset_339
+  - first:
+      213: -2156065526385550579
+    second: cloud_tileset_340
+  - first:
+      213: 1724511978229557100
+    second: cloud_tileset_341
+  - first:
+      213: -3531679808138157315
+    second: cloud_tileset_342
+  - first:
+      213: -3781278764145858908
+    second: cloud_tileset_343
+  - first:
+      213: -5420672551556352032
+    second: cloud_tileset_344
+  - first:
+      213: 4475559787817320377
+    second: cloud_tileset_345
+  - first:
+      213: 3602786309646680929
+    second: cloud_tileset_346
+  - first:
+      213: -2482629336228335810
+    second: cloud_tileset_347
+  - first:
+      213: 3560316360459153310
+    second: cloud_tileset_348
+  - first:
+      213: 6129202623765581557
+    second: cloud_tileset_349
+  - first:
+      213: 4525062160402321074
+    second: cloud_tileset_350
+  - first:
+      213: 1022487846456668206
+    second: cloud_tileset_351
+  - first:
+      213: -5753971847404072405
+    second: cloud_tileset_352
+  - first:
+      213: -5724667935794432614
+    second: cloud_tileset_353
+  - first:
+      213: 5921443173295664158
+    second: cloud_tileset_354
+  - first:
+      213: 9104627640807114148
+    second: cloud_tileset_355
+  - first:
+      213: 5357149221021215160
+    second: cloud_tileset_356
+  - first:
+      213: 2591370599644950006
+    second: cloud_tileset_357
+  - first:
+      213: -8077579711640979570
+    second: cloud_tileset_358
+  - first:
+      213: -6085125843052657652
+    second: cloud_tileset_359
+  - first:
+      213: -7031992448323602065
+    second: cloud_tileset_360
+  - first:
+      213: 7339837915331852784
+    second: cloud_tileset_361
+  - first:
+      213: -2003206795248058424
+    second: cloud_tileset_362
+  - first:
+      213: 5561243950957830719
+    second: cloud_tileset_363
+  - first:
+      213: 1155427045604332090
+    second: cloud_tileset_364
+  - first:
+      213: -5038878918380569876
+    second: cloud_tileset_365
+  - first:
+      213: 114491624819023718
+    second: cloud_tileset_366
+  - first:
+      213: 646105825506627206
+    second: cloud_tileset_367
+  - first:
+      213: -8725851326801428696
+    second: cloud_tileset_368
+  - first:
+      213: -2771608734379056027
+    second: cloud_tileset_369
+  - first:
+      213: 8476770631782376042
+    second: cloud_tileset_370
+  - first:
+      213: -5294468720456297576
+    second: cloud_tileset_371
+  - first:
+      213: 287825713645674752
+    second: cloud_tileset_372
+  - first:
+      213: 7573693112907595459
+    second: cloud_tileset_373
+  - first:
+      213: -3050907398961821706
+    second: cloud_tileset_374
+  - first:
+      213: -2642110756147494325
+    second: cloud_tileset_375
+  - first:
+      213: 3430847280833961011
+    second: cloud_tileset_376
+  - first:
+      213: -6130797133024900878
+    second: cloud_tileset_377
+  - first:
+      213: -95642204071424469
+    second: cloud_tileset_378
+  - first:
+      213: 4120833470143123750
+    second: cloud_tileset_379
+  - first:
+      213: -6322756758621303895
+    second: cloud_tileset_380
+  - first:
+      213: -3454899155274466457
+    second: cloud_tileset_381
+  - first:
+      213: 8589646432650213178
+    second: cloud_tileset_382
+  - first:
+      213: -1680952863903883152
+    second: cloud_tileset_383
+  - first:
+      213: -1605774454793162240
+    second: cloud_tileset_384
+  - first:
+      213: -3183129241489054403
+    second: cloud_tileset_385
+  - first:
+      213: -2471414190654624156
+    second: cloud_tileset_386
+  - first:
+      213: -1282128313295663308
+    second: cloud_tileset_387
+  - first:
+      213: -2676966694372537790
+    second: cloud_tileset_388
+  - first:
+      213: 1713215315273814707
+    second: cloud_tileset_389
+  - first:
+      213: -290282157290116240
+    second: cloud_tileset_390
+  - first:
+      213: -4808427010539542714
+    second: cloud_tileset_391
+  - first:
+      213: 3755147766757113502
+    second: cloud_tileset_392
+  - first:
+      213: 7496181519002950019
+    second: cloud_tileset_393
+  - first:
+      213: 7153598638408217670
+    second: cloud_tileset_394
+  - first:
+      213: -800333108284073148
+    second: cloud_tileset_395
+  - first:
+      213: 3740220106199205605
+    second: cloud_tileset_396
+  - first:
+      213: -6802500571639231441
+    second: cloud_tileset_397
+  - first:
+      213: 9206597972160691506
+    second: cloud_tileset_398
+  - first:
+      213: 3324533861262047782
+    second: cloud_tileset_399
+  - first:
+      213: 6633434223795662782
+    second: cloud_tileset_400
+  - first:
+      213: 430601101581956684
+    second: cloud_tileset_401
+  - first:
+      213: -5467402634854810299
+    second: cloud_tileset_402
+  - first:
+      213: -6335556513153022442
+    second: cloud_tileset_403
+  - first:
+      213: 5312960151207023465
+    second: cloud_tileset_404
+  - first:
+      213: -5648229456141323428
+    second: cloud_tileset_405
+  - first:
+      213: 4544618707266673142
+    second: cloud_tileset_406
+  - first:
+      213: 468879887875095453
+    second: cloud_tileset_407
+  - first:
+      213: -687613967274396485
+    second: cloud_tileset_408
+  - first:
+      213: 3123715472710241336
+    second: cloud_tileset_409
+  - first:
+      213: -7450031739279120501
+    second: cloud_tileset_410
+  - first:
+      213: 8384044765288628197
+    second: cloud_tileset_411
+  - first:
+      213: 6884320374483141494
+    second: cloud_tileset_412
+  - first:
+      213: -5095865422527744300
+    second: cloud_tileset_413
+  - first:
+      213: 5179606320546654643
+    second: cloud_tileset_414
+  - first:
+      213: -5224107202865229202
+    second: cloud_tileset_415
+  - first:
+      213: -2583412518228424464
+    second: cloud_tileset_416
+  - first:
+      213: 3418264767228270167
+    second: cloud_tileset_417
+  - first:
+      213: 174602854198123889
+    second: cloud_tileset_418
+  - first:
+      213: -6046745476828411154
+    second: cloud_tileset_419
+  - first:
+      213: 6047121078082943512
+    second: cloud_tileset_420
+  - first:
+      213: -4591566930097103108
+    second: cloud_tileset_421
+  - first:
+      213: -7335502966016389241
+    second: cloud_tileset_422
+  - first:
+      213: 5874184911641562692
+    second: cloud_tileset_423
+  - first:
+      213: 2258628874124054346
+    second: cloud_tileset_424
+  - first:
+      213: -6275567700964581474
+    second: cloud_tileset_425
+  - first:
+      213: -1156659425019786876
+    second: cloud_tileset_426
+  - first:
+      213: 6029550595976052792
+    second: cloud_tileset_427
+  - first:
+      213: -6838587231170419812
+    second: cloud_tileset_428
+  - first:
+      213: -7677009714496457209
+    second: cloud_tileset_429
+  - first:
+      213: 7478460246958335367
+    second: cloud_tileset_430
+  - first:
+      213: 3167179655367972951
+    second: cloud_tileset_431
+  - first:
+      213: 5263005059807050942
+    second: cloud_tileset_432
+  - first:
+      213: 4927733247260566803
+    second: cloud_tileset_433
+  - first:
+      213: -6028581262708528979
+    second: cloud_tileset_434
+  - first:
+      213: -2101278363479770854
+    second: cloud_tileset_435
+  - first:
+      213: -5939988707483731129
+    second: cloud_tileset_436
+  - first:
+      213: 5127484907788373928
+    second: cloud_tileset_437
+  - first:
+      213: -4842434919813129185
+    second: cloud_tileset_438
+  - first:
+      213: -684632297780880761
+    second: cloud_tileset_439
+  - first:
+      213: 7782296149332324518
+    second: cloud_tileset_440
+  - first:
+      213: -59139039406622061
+    second: cloud_tileset_441
+  - first:
+      213: 714426960600020179
+    second: cloud_tileset_442
+  - first:
+      213: 8477922770820993170
+    second: cloud_tileset_443
+  - first:
+      213: -7273828769926979223
+    second: cloud_tileset_444
+  - first:
+      213: -2705296436515193662
+    second: cloud_tileset_445
+  - first:
+      213: -4091401011006745431
+    second: cloud_tileset_446
+  - first:
+      213: 1287808241655943911
+    second: cloud_tileset_447
+  - first:
+      213: -607822269725711600
+    second: cloud_tileset_448
+  - first:
+      213: -962392871252611883
+    second: cloud_tileset_449
+  - first:
+      213: 7115783201086203720
+    second: cloud_tileset_450
+  - first:
+      213: 8454053282003669565
+    second: cloud_tileset_451
+  - first:
+      213: -1026196076814453503
+    second: cloud_tileset_452
+  - first:
+      213: 3636060715844837867
+    second: cloud_tileset_453
+  - first:
+      213: -7255499711776912102
+    second: cloud_tileset_454
+  - first:
+      213: -796761919653352185
+    second: cloud_tileset_455
+  - first:
+      213: -4320615067803030114
+    second: cloud_tileset_456
+  - first:
+      213: -3414145834153914650
+    second: cloud_tileset_457
+  - first:
+      213: -487740659887597789
+    second: cloud_tileset_458
+  - first:
+      213: -7186047468949147642
+    second: cloud_tileset_459
+  - first:
+      213: 9209858803589828897
+    second: cloud_tileset_460
+  - first:
+      213: 2694493399313918289
+    second: cloud_tileset_461
+  - first:
+      213: -592687831535647343
+    second: cloud_tileset_462
+  - first:
+      213: 4675980539332132617
+    second: cloud_tileset_463
+  - first:
+      213: 5924670652428308787
+    second: cloud_tileset_464
+  - first:
+      213: -3887711748240298823
+    second: cloud_tileset_465
+  - first:
+      213: 4813637807248995609
+    second: cloud_tileset_466
+  - first:
+      213: -700546311544932366
+    second: cloud_tileset_467
+  - first:
+      213: 5669289941278848253
+    second: cloud_tileset_468
+  - first:
+      213: -6392320767221380171
+    second: cloud_tileset_469
+  - first:
+      213: 2672175669167359615
+    second: cloud_tileset_470
+  - first:
+      213: 2207505152605121726
+    second: cloud_tileset_471
+  - first:
+      213: -5060304761708969443
+    second: cloud_tileset_472
+  - first:
+      213: 2058084878354317359
+    second: cloud_tileset_473
+  - first:
+      213: 8235802642247907372
+    second: cloud_tileset_474
+  - first:
+      213: 8373696428012456145
+    second: cloud_tileset_475
+  - first:
+      213: -8295928599932633995
+    second: cloud_tileset_476
+  - first:
+      213: 3417919537039615482
+    second: cloud_tileset_477
+  - first:
+      213: -2512183288692441644
+    second: cloud_tileset_478
+  - first:
+      213: -1596232824309781671
+    second: cloud_tileset_479
+  - first:
+      213: 4756044856342150894
+    second: cloud_tileset_480
+  - first:
+      213: -3606958461652519252
+    second: cloud_tileset_481
+  - first:
+      213: -6988918307568652914
+    second: cloud_tileset_482
+  - first:
+      213: -2949279575891712177
+    second: cloud_tileset_483
+  - first:
+      213: 7610941731429803453
+    second: cloud_tileset_484
+  - first:
+      213: -5130321432221546635
+    second: cloud_tileset_485
+  - first:
+      213: -4918410157023744450
+    second: cloud_tileset_486
+  - first:
+      213: -851568024481180398
+    second: cloud_tileset_487
+  - first:
+      213: 3229774865192067015
+    second: cloud_tileset_488
+  - first:
+      213: 7723245884495494265
+    second: cloud_tileset_489
+  - first:
+      213: 1282595760170966386
+    second: cloud_tileset_490
+  - first:
+      213: 3158020772280628710
+    second: cloud_tileset_491
+  - first:
+      213: 380892786194201893
+    second: cloud_tileset_492
+  - first:
+      213: -2707175473258452094
+    second: cloud_tileset_493
+  - first:
+      213: -3344866487663322173
+    second: cloud_tileset_494
+  - first:
+      213: 2661237699632080434
+    second: cloud_tileset_495
+  - first:
+      213: 4322097816477701828
+    second: cloud_tileset_496
+  - first:
+      213: -8835034714514940107
+    second: cloud_tileset_497
+  - first:
+      213: -4112388124007424130
+    second: cloud_tileset_498
+  - first:
+      213: -8831058891033299597
+    second: cloud_tileset_499
+  - first:
+      213: 9076361836766346007
+    second: cloud_tileset_500
+  - first:
+      213: -554654026115955342
+    second: cloud_tileset_501
+  - first:
+      213: 250198100957935125
+    second: cloud_tileset_502
+  - first:
+      213: 1353323835644242459
+    second: cloud_tileset_503
+  - first:
+      213: 2393122594806140893
+    second: cloud_tileset_504
+  - first:
+      213: 777626760906251995
+    second: cloud_tileset_505
+  - first:
+      213: 4228149744395175063
+    second: cloud_tileset_506
+  - first:
+      213: 7528673964422946621
+    second: cloud_tileset_507
+  - first:
+      213: 5586556488370930809
+    second: cloud_tileset_508
+  - first:
+      213: -2935810588767196777
+    second: cloud_tileset_509
+  - first:
+      213: -8964958856223800437
+    second: cloud_tileset_510
+  - first:
+      213: 5360100037517061777
+    second: cloud_tileset_511
+  - first:
+      213: -7024197064321756412
+    second: cloud_tileset_512
+  - first:
+      213: 1865979059365891580
+    second: cloud_tileset_513
+  - first:
+      213: 5153857014278857955
+    second: cloud_tileset_514
+  - first:
+      213: 7290403855805151867
+    second: cloud_tileset_515
+  - first:
+      213: -4423538750396569533
+    second: cloud_tileset_516
+  - first:
+      213: 6804807191054158518
+    second: statue_0
+  - first:
+      213: 4949001970499562883
+    second: statue_1
+  - first:
+      213: 8031253067276518207
+    second: statue_2
+  - first:
+      213: 3869355829266618146
+    second: statue_3
+  - first:
+      213: 3362829355153219212
+    second: statue_4
+  - first:
+      213: 7524144988210506566
+    second: statue_5
+  - first:
+      213: 5553016269822546684
+    second: statue_6
+  - first:
+      213: -203222107917691539
+    second: statue_7
+  - first:
+      213: -5349940935070134158
+    second: statue_8
+  - first:
+      213: -2347410558589243318
+    second: statue_9
+  - first:
+      213: -5712703752838020540
+    second: statue_10
+  - first:
+      213: -3181335490543870080
+    second: statue_11
+  - first:
+      213: 5266003638422681727
+    second: statue_12
+  - first:
+      213: 1804809183737139553
+    second: statue_13
+  - first:
+      213: 694117771634449195
+    second: statue_14
+  - first:
+      213: -7847456483759457178
+    second: statue_15
+  - first:
+      213: 5736126979923439715
+    second: statue_16
+  - first:
+      213: 2294411326372047873
+    second: statue_17
+  - first:
+      213: -2369714852227611284
+    second: statue_18
+  - first:
+      213: 3662868631560675609
+    second: statue_19
+  - first:
+      213: 3392494096129168727
+    second: statue_20
+  - first:
+      213: -2394624554022017091
+    second: statue_21
+  - first:
+      213: 8558944013740784191
+    second: statue_22
+  - first:
+      213: -700782591885725595
+    second: statue_23
+  - first:
+      213: 588528260982809305
+    second: statue_24
+  - first:
+      213: -3681863562118456590
+    second: statue_25
+  - first:
+      213: -1781548507763685111
+    second: statue_26
+  - first:
+      213: 1228211837152097695
+    second: statue_27
+  - first:
+      213: 7490735151358481191
+    second: statue_28
+  - first:
+      213: -5500579831067951390
+    second: statue_29
+  - first:
+      213: 2008033444384941296
+    second: statue_30
+  - first:
+      213: 7863293840729326564
+    second: statue_31
+  - first:
+      213: 7397553472608516086
+    second: statue_32
+  - first:
+      213: 7928469402582242017
+    second: statue_33
+  - first:
+      213: 2107247253460917222
+    second: statue_34
+  - first:
+      213: 3877205851351927531
+    second: statue_35
+  - first:
+      213: 351270059402446493
+    second: statue_36
+  - first:
+      213: 605369992928503659
+    second: statue_37
+  - first:
+      213: 2202393123904321263
+    second: statue_38
+  - first:
+      213: 8442200446148820334
+    second: statue_39
+  - first:
+      213: -8142383673281431538
+    second: statue_40
+  - first:
+      213: -455790943100216365
+    second: statue_41
+  - first:
+      213: 4267137640318052619
+    second: statue_42
+  - first:
+      213: -4765627929791603549
+    second: statue_43
+  - first:
+      213: 3322400127401093856
+    second: statue_44
+  - first:
+      213: 4963328503422280301
+    second: statue_45
+  - first:
+      213: -2556829438841557741
+    second: statue_46
+  - first:
+      213: 2469956614991932217
+    second: statue_47
+  - first:
+      213: 8372385982637162697
+    second: statue_48
+  - first:
+      213: 5379541463941668471
+    second: statue_49
+  - first:
+      213: 2640313973002812218
+    second: statue_50
+  - first:
+      213: 1307055280270707948
+    second: statue_51
+  - first:
+      213: 4246831555317104413
+    second: statue_52
+  - first:
+      213: 2527638267233168396
+    second: statue_53
+  - first:
+      213: 6732139200630359553
+    second: statue_54
+  - first:
+      213: 705304658780167694
+    second: statue_55
+  - first:
+      213: -7268444168956031591
+    second: statue_56
+  - first:
+      213: -7497197626125984533
+    second: statue_57
+  - first:
+      213: 234462832004650096
+    second: statue_58
+  - first:
+      213: 6787603454960035860
+    second: statue_59
+  - first:
+      213: 1300122311981584981
+    second: statue_60
+  - first:
+      213: 3842236862693896967
+    second: statue_61
+  - first:
+      213: 5132147385724684474
+    second: statue_62
+  - first:
+      213: 4491366976029079281
+    second: statue_63
+  - first:
+      213: 742596072219772853
+    second: statue_64
+  - first:
+      213: -3371468250907909376
+    second: statue_65
+  - first:
+      213: 920981297513440523
+    second: statue_66
+  - first:
+      213: -2957104027506438436
+    second: statue_67
+  - first:
+      213: -3015862530254333522
+    second: statue_68
+  - first:
+      213: 842608750399757896
+    second: statue_69
+  - first:
+      213: 353860777564682464
+    second: statue_70
+  - first:
+      213: 7083146767672206024
+    second: statue_71
+  - first:
+      213: -1334912338699737382
+    second: statue_72
+  - first:
+      213: -64466639116223972
+    second: statue_73
+  - first:
+      213: -8658707347533729272
+    second: statue_74
+  - first:
+      213: 5214214087246014560
+    second: statue_75
+  - first:
+      213: 2516959353553311947
+    second: statue_76
+  - first:
+      213: -171203879399711317
+    second: statue_77
+  - first:
+      213: 9075325205920793619
+    second: statue_78
+  - first:
+      213: 5894422513031165583
+    second: statue_79
+  - first:
+      213: -3062273447333069303
+    second: statue_80
+  - first:
+      213: -8393497738708851891
+    second: statue_81
+  - first:
+      213: -8419482008450768305
+    second: statue_82
+  - first:
+      213: -7098717002901662848
+    second: statue_83
+  - first:
+      213: -5465698069492900819
+    second: statue_84
+  - first:
+      213: -226156013916459046
+    second: statue_85
+  - first:
+      213: 5876881307755450159
+    second: statue_86
+  - first:
+      213: 8081124774670952346
+    second: statue_87
+  - first:
+      213: -7249838994483004698
+    second: statue_88
+  - first:
+      213: 9198375585877366589
+    second: statue_89
+  - first:
+      213: 2198337587221479846
+    second: statue_90
+  - first:
+      213: -8919519665737876451
+    second: statue_91
+  - first:
+      213: -4438597014064940148
+    second: statue_92
+  - first:
+      213: -8955673320203065348
+    second: statue_93
+  - first:
+      213: -3888876749466881528
+    second: statue_94
+  - first:
+      213: 7834709693536635370
+    second: statue_95
+  - first:
+      213: -6930836960088953511
+    second: statue_96
+  - first:
+      213: -1411966316141536704
+    second: statue_97
+  - first:
+      213: 3011300139201179757
+    second: statue_98
+  - first:
+      213: -3624552602419843887
+    second: statue_99
+  - first:
+      213: 3680367643666768749
+    second: statue_100
+  - first:
+      213: -6752752912638862175
+    second: statue_101
+  - first:
+      213: -2825016070976631468
+    second: statue_102
+  - first:
+      213: -1758016219846602515
+    second: statue_103
+  - first:
+      213: -906366229623493691
+    second: statue_104
+  - first:
+      213: 6523758324482948335
+    second: statue_105
+  - first:
+      213: -4440550073412730820
+    second: statue_106
+  - first:
+      213: -6761287239788967579
+    second: statue_107
+  - first:
+      213: -7075198897499257919
+    second: statue_108
+  - first:
+      213: 7193351935485968088
+    second: statue_109
+  - first:
+      213: 6887034839075978105
+    second: statue_110
+  - first:
+      213: 3991691285176553800
+    second: statue_111
+  - first:
+      213: 1433581311291369669
+    second: statue_112
+  - first:
+      213: 3687381752770125484
+    second: statue_113
+  - first:
+      213: 2315383182756534585
+    second: statue_114
+  - first:
+      213: 239356162022040170
+    second: statue_115
+  - first:
+      213: 298831952162159187
+    second: statue_116
+  - first:
+      213: 4214432690880088060
+    second: statue_117
+  - first:
+      213: -3683801738327560078
+    second: statue_118
+  - first:
+      213: 5407434402685896102
+    second: statue_119
+  - first:
+      213: -6414552070804230801
+    second: statue_120
+  - first:
+      213: -6567613639955282890
+    second: statue_121
+  - first:
+      213: 2934224840072712459
+    second: statue_122
+  - first:
+      213: -2477903853587270546
+    second: statue_123
+  - first:
+      213: 5602063719215236599
+    second: statue_124
+  - first:
+      213: 3949904579546472141
+    second: statue_125
+  - first:
+      213: 808047401190455550
+    second: statue_126
+  - first:
+      213: -2456110886067188171
+    second: statue_127
+  - first:
+      213: -3181511568210361388
+    second: statue_128
+  - first:
+      213: 9206561565153625321
+    second: statue_129
+  - first:
+      213: -586707653144840825
+    second: statue_130
+  - first:
+      213: -2658182350999229964
+    second: statue_131
+  - first:
+      213: 1196059855336924294
+    second: statue_132
+  - first:
+      213: -1854716644142031603
+    second: statue_133
+  - first:
+      213: -2989016506245163306
+    second: statue_134
+  - first:
+      213: 1934144244379227474
+    second: statue_135
+  - first:
+      213: 6773521568950232581
+    second: statue_136
+  - first:
+      213: -4717304736973403896
+    second: statue_137
+  - first:
+      213: 6147298563979885063
+    second: statue_138
+  - first:
+      213: -5446296127087240391
+    second: statue_139
+  - first:
+      213: 1630528555875218956
+    second: statue_140
+  - first:
+      213: 2334834713688097750
+    second: statue_141
+  - first:
+      213: -8620721277196789833
+    second: statue_142
+  - first:
+      213: -5199327939692298942
+    second: statue_143
+  - first:
+      213: -6283761687089518846
+    second: statue_144
+  - first:
+      213: 2155875958062941034
+    second: statue_145
+  - first:
+      213: -1546090405955592740
+    second: statue_146
+  - first:
+      213: 3523247636723108512
+    second: statue_147
+  - first:
+      213: 3649688516670743739
+    second: statue_148
+  - first:
+      213: 5591844109539570478
+    second: statue_149
+  - first:
+      213: -7551699996171803238
+    second: statue_150
+  - first:
+      213: -7842178472385921490
+    second: statue_151
+  - first:
+      213: -9180443966992439777
+    second: statue_152
+  - first:
+      213: 3011839855754950903
+    second: statue_153
+  - first:
+      213: 8283927385241100610
+    second: statue_154
+  - first:
+      213: -4478888044054504517
+    second: statue_155
+  - first:
+      213: -4259599329273643411
+    second: statue_156
+  - first:
+      213: 3410563575592466012
+    second: statue_157
+  - first:
+      213: -2439973842338837001
+    second: statue_158
+  - first:
+      213: -1453054023814004138
+    second: statue_159
+  - first:
+      213: -3325795871101682430
+    second: statue_160
+  - first:
+      213: 2079955555393551832
+    second: statue_161
+  - first:
+      213: -3706057775879277291
+    second: statue_162
+  - first:
+      213: -7872036695776735323
+    second: statue_163
+  - first:
+      213: 5243138494269119069
+    second: statue_164
+  - first:
+      213: 6448609261164611021
+    second: statue_165
+  - first:
+      213: -6584296055165664215
+    second: statue_166
+  - first:
+      213: -1450324281452668436
+    second: statue_167
+  - first:
+      213: 1764638551976947116
+    second: statue_168
+  - first:
+      213: 829390923502707441
+    second: statue_169
+  - first:
+      213: -8245848779484622197
+    second: statue_170
+  - first:
+      213: -1940114532807449912
+    second: statue_171
+  - first:
+      213: 7656492212334355504
+    second: statue_172
+  - first:
+      213: 5054109028888665253
+    second: statue_173
+  - first:
+      213: 166020527174970609
+    second: statue_174
+  - first:
+      213: -8417116340752447772
+    second: statue_175
+  - first:
+      213: -198559010372360786
+    second: statue_176
+  - first:
+      213: -1205206992913260208
+    second: statue_177
+  - first:
+      213: 6799813254694666849
+    second: statue_178
+  - first:
+      213: 6191904692975105212
+    second: statue_179
+  - first:
+      213: 2966390932360289141
+    second: statue_180
+  - first:
+      213: -6120206624580575836
+    second: statue_181
+  - first:
+      213: -6853965891573264429
+    second: statue_182
+  - first:
+      213: 6737321860757280808
+    second: statue_183
+  - first:
+      213: 8154632303248401608
+    second: statue_184
+  - first:
+      213: 7575724824548826006
+    second: statue_185
+  - first:
+      213: -5140953444499125862
+    second: statue_186
+  - first:
+      213: -6185196812211197025
+    second: statue_187
+  - first:
+      213: 4482096155581404144
+    second: statue_188
+  - first:
+      213: -307104416596036055
+    second: statue_189
+  - first:
+      213: -7796331810818419544
+    second: statue_190
+  - first:
+      213: 2463269131268315548
+    second: statue_191
+  - first:
+      213: 8900027558239794149
+    second: statue_192
+  - first:
+      213: -8533837383281316277
+    second: statue_193
+  - first:
+      213: 497283640861991044
+    second: statue_194
+  - first:
+      213: 4560104275485034077
+    second: statue_195
+  - first:
+      213: -6244827425586826014
+    second: statue_196
+  - first:
+      213: -1755736137219081136
+    second: statue_197
+  - first:
+      213: -5060317915890811370
+    second: statue_198
+  - first:
+      213: 290134183478081924
+    second: statue_199
+  - first:
+      213: -5101961061576699527
+    second: statue_200
+  - first:
+      213: -1385730060068944940
+    second: statue_201
+  - first:
+      213: 3979046244551670044
+    second: statue_202
+  - first:
+      213: 2141348103917377981
+    second: statue_203
+  - first:
+      213: -910777968621355968
+    second: statue_204
+  - first:
+      213: -8621936671242881720
+    second: statue_205
+  - first:
+      213: 8041544806575079354
+    second: statue_206
+  - first:
+      213: 5154525736859776421
+    second: statue_207
+  - first:
+      213: -674211636842039899
+    second: statue_208
+  - first:
+      213: -5256033348858167252
+    second: statue_209
+  - first:
+      213: -2213792964520332978
+    second: statue_210
+  - first:
+      213: -6203112460847356887
+    second: statue_211
+  - first:
+      213: 184043016754035408
+    second: statue_212
+  - first:
+      213: 6779728341009527327
+    second: statue_213
+  - first:
+      213: -1265397150810594316
+    second: statue_214
+  - first:
+      213: -685844920131433134
+    second: statue_215
+  - first:
+      213: -1866792164105257955
+    second: statue_216
+  - first:
+      213: -4326408012905630944
+    second: statue_217
+  - first:
+      213: 4254982073145072918
+    second: statue_218
+  - first:
+      213: 4450346952856790312
+    second: statue_219
+  - first:
+      213: -648573047547723308
+    second: statue_220
+  - first:
+      213: -8864123758800757968
+    second: statue_221
+  - first:
+      213: 3322955125173085186
+    second: statue_222
+  - first:
+      213: 2227565778991182231
+    second: statue_223
+  - first:
+      213: -1107331262147425907
+    second: statue_224
+  - first:
+      213: -7416914994612187680
+    second: statue_225
+  - first:
+      213: -4989424601652567561
+    second: statue_226
+  - first:
+      213: 2290760873677768225
+    second: statue_227
+  - first:
+      213: -7539524783324928481
+    second: statue_228
+  - first:
+      213: 8499532287883558085
+    second: statue_229
+  - first:
+      213: 3021330534176385089
+    second: statue_230
+  - first:
+      213: -6789270617986472605
+    second: statue_231
+  - first:
+      213: 1724482653184284342
+    second: statue_232
+  - first:
+      213: 2484573439958856999
+    second: statue_233
+  - first:
+      213: -534832057691091522
+    second: statue_234
+  - first:
+      213: -850839306929863861
+    second: statue_235
+  - first:
+      213: -4934337458922898205
+    second: statue_236
+  - first:
+      213: 8402963187753998815
+    second: statue_237
+  - first:
+      213: -939249981319865133
+    second: statue_238
+  - first:
+      213: 6015269278889141122
+    second: statue_239
+  - first:
+      213: -916969143991447435
+    second: statue_240
+  - first:
+      213: -3995457697902787263
+    second: statue_241
+  - first:
+      213: 9124210623085985227
+    second: statue_242
+  - first:
+      213: -14010550287315482
+    second: statue_243
+  - first:
+      213: -5572512319748809182
+    second: statue_244
+  - first:
+      213: -1244265581942395618
+    second: statue_245
+  - first:
+      213: 4556144636735202054
+    second: statue_246
+  - first:
+      213: 2310249072816252130
+    second: statue_247
+  - first:
+      213: -4651772663221569661
+    second: statue_248
+  - first:
+      213: -3238212300016833676
+    second: statue_249
+  - first:
+      213: 3429234449658782436
+    second: statue_250
+  - first:
+      213: -7068362346884302305
+    second: statue_251
+  - first:
+      213: 658208142433718202
+    second: statue_252
+  - first:
+      213: -909845470656849604
+    second: statue_253
+  - first:
+      213: -2873592428803554581
+    second: statue_254
+  - first:
+      213: 37313106964059023
+    second: statue_255
+  - first:
+      213: 3137528543097337447
+    second: statue_256
+  - first:
+      213: 194740537065627836
+    second: statue_257
+  - first:
+      213: -8173781036047836611
+    second: statue_258
+  - first:
+      213: -8735659563524214687
+    second: statue_259
+  - first:
+      213: -5703962237812675035
+    second: statue_260
+  - first:
+      213: -1770776634544644146
+    second: statue_261
+  - first:
+      213: -2198404200333536973
+    second: statue_262
+  - first:
+      213: 6192680563005687869
+    second: statue_263
+  - first:
+      213: -6908277778476437391
+    second: statue_264
+  - first:
+      213: 3554954246411845909
+    second: statue_265
+  - first:
+      213: -218036002940385114
+    second: statue_266
+  - first:
+      213: -6648090012316643740
+    second: statue_267
+  - first:
+      213: 5722445306726956044
+    second: statue_268
+  - first:
+      213: -5353860306768788067
+    second: statue_269
+  - first:
+      213: 8830903399828813571
+    second: statue_270
+  - first:
+      213: 3910781955348001262
+    second: statue_271
+  - first:
+      213: -3550665646259356172
+    second: statue_272
+  - first:
+      213: -3421496259812841114
+    second: statue_273
+  - first:
+      213: -8394071970851656535
+    second: statue_274
+  - first:
+      213: 1519145143565842191
+    second: statue_275
+  - first:
+      213: -733196860923969173
+    second: statue_276
+  - first:
+      213: 843015240829233083
+    second: statue_277
+  - first:
+      213: 7435298806205119611
+    second: statue_278
+  - first:
+      213: 9029391745163539944
+    second: statue_279
+  - first:
+      213: 1608783501281591004
+    second: statue_280
+  - first:
+      213: 8684083443722414485
+    second: statue_281
+  - first:
+      213: -4583805815429949102
+    second: statue_282
+  - first:
+      213: 6261280198637135097
+    second: statue_283
+  - first:
+      213: 8944400448911708098
+    second: statue_284
+  - first:
+      213: 4576133602918736561
+    second: statue_285
+  - first:
+      213: 4092243658632699426
+    second: statue_286
+  - first:
+      213: 5861852597881326550
+    second: statue_287
+  - first:
+      213: -5390401518295008430
+    second: statue_288
+  - first:
+      213: -8592191594488852359
+    second: statue_289
+  - first:
+      213: 4291808094667382750
+    second: statue_290
+  - first:
+      213: 1146297943812606896
+    second: statue_291
+  - first:
+      213: 1057254105165082774
+    second: statue_292
+  - first:
+      213: -581952160063746299
+    second: statue_293
+  - first:
+      213: 5620550678419313040
+    second: statue_294
+  - first:
+      213: -6020857585032494417
+    second: statue_295
+  - first:
+      213: 7093876762563195308
+    second: statue_296
+  - first:
+      213: -4233441783850858425
+    second: statue_297
+  - first:
+      213: -3789112200040973440
+    second: statue_298
+  - first:
+      213: 8378777003321951689
+    second: statue_299
+  - first:
+      213: -487430834599105343
+    second: statue_300
+  - first:
+      213: 3209613020793983367
+    second: statue_301
+  - first:
+      213: -5186430797574216595
+    second: statue_302
+  - first:
+      213: -7035724910679149082
+    second: statue_303
+  - first:
+      213: -7759623573053382446
+    second: statue_304
+  - first:
+      213: 510538637554435033
+    second: statue_305
+  - first:
+      213: 3239182101639759045
+    second: statue_306
+  - first:
+      213: 2704638163897557703
+    second: statue_307
+  - first:
+      213: 4759848681042918456
+    second: statue_308
+  - first:
+      213: -4016463608036096465
+    second: statue_309
+  - first:
+      213: 62865437838737389
+    second: statue_310
+  - first:
+      213: -810372877851011432
+    second: statue_311
+  - first:
+      213: 20998247453982112
+    second: statue_312
+  - first:
+      213: 4514724702237583746
+    second: statue_313
+  - first:
+      213: 4742707480478594331
+    second: statue_314
+  - first:
+      213: -4043809008308020310
+    second: statue_315
+  - first:
+      213: -6641998159405998106
+    second: statue_316
+  - first:
+      213: 2476093964070752310
+    second: statue_317
+  - first:
+      213: 4463697333263390886
+    second: statue_318
+  - first:
+      213: 1407628369158895194
+    second: statue_319
+  - first:
+      213: -4515991691624197647
+    second: statue_320
+  - first:
+      213: -4032872422827095779
+    second: statue_321
+  - first:
+      213: -2907778874282118079
+    second: statue_322
+  - first:
+      213: -5556733854329902958
+    second: statue_323
+  - first:
+      213: 2402551941280479850
+    second: statue_324
+  - first:
+      213: 4794726836534086330
+    second: statue_325
+  - first:
+      213: -6700131047169215036
+    second: statue_326
+  - first:
+      213: 5849607236502662085
+    second: statue_327
+  - first:
+      213: 3961226850426958122
+    second: statue_328
+  - first:
+      213: -7010306258758149437
+    second: statue_329
+  - first:
+      213: -5044105258388880449
+    second: statue_330
+  - first:
+      213: -1200069014810741611
+    second: statue_331
+  - first:
+      213: -608365158792645978
+    second: statue_332
+  - first:
+      213: -8812456311717438028
+    second: statue_333
+  - first:
+      213: 6008506270885383246
+    second: statue_334
+  - first:
+      213: 6192996023733949917
+    second: statue_335
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: statue_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8ecb36188f6e50800000000000000
+      internalID: 6804807191054158518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da55c32136ea440800000000000000
+      internalID: 4949001970499562883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3388400d1eb47f60800000000000000
+      internalID: 8031253067276518207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227160140a6b2b530800000000000000
+      internalID: 3869355829266618146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed9224b7b2bae20800000000000000
+      internalID: 3362829355153219212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba2dc80022b6860800000000000000
+      internalID: 7524144988210506566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2dcb250e6401d40800000000000000
+      internalID: 5553016269822546684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655f0fc1920e2df0800000000000000
+      internalID: -203222107917691539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d2d3901131c5b0800000000000000
+      internalID: -5349940935070134158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407949b8825c6fd0800000000000000
+      internalID: -2347410558589243318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428c09343668b0b0800000000000000
+      internalID: -5712703752838020540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f1ace0a30a9d3d0800000000000000
+      internalID: -3181335490543870080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78391e986a941940800000000000000
+      internalID: 5266003638422681727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d30ce368fb0910800000000000000
+      internalID: 1804809183737139553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b9e8a8f6002a900800000000000000
+      internalID: 694117771634449195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c7e27d7eb381390800000000000000
+      internalID: -7847456483759457178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fed0d811da9f40800000000000000
+      internalID: 5736126979923439715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ce90de1f267df10800000000000000
+      internalID: 2294411326372047873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65810ea5e41d1fd0800000000000000
+      internalID: -2369714852227611284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 368
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911681b1d9f15d230800000000000000
+      internalID: 3662868631560675609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755936ef76f841f20800000000000000
+      internalID: 3392494096129168727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e617c7a594ced0800000000000000
+      internalID: -2394624554022017091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab977bb3a77c670800000000000000
+      internalID: 8558944013740784191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560bfd112f15646f0800000000000000
+      internalID: -700782591885725595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a820d55fda2800800000000000000
+      internalID: 588528260982809305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa997cf89467ecc0800000000000000
+      internalID: -3681863562118456590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094e9c321ba647e0800000000000000
+      internalID: -1781548507763685111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f957166982c7b0110800000000000000
+      internalID: 1228211837152097695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723114bbeef64f760800000000000000
+      internalID: 7490735151358481191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee348679c30aa3b0800000000000000
+      internalID: -5500579831067951390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42ba557c7fddb10800000000000000
+      internalID: 2008033444384941296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3403d2618002d60800000000000000
+      internalID: 7863293840729326564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b9cd70b369a660800000000000000
+      internalID: 7397553472608516086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d7713ae4970e60800000000000000
+      internalID: 7928469402582242017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb947c56327e3d10800000000000000
+      internalID: 2107247253460917222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac5e2fd2a9ec530800000000000000
+      internalID: 3877205851351927531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c9e60246ffd400800000000000000
+      internalID: 351270059402446493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b672f2a1dc4b66800800000000000000
+      internalID: 605369992928503659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6741e90e8709e10800000000000000
+      internalID: 2202393123904321263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d385bb398b82570800000000000000
+      internalID: 8442200446148820334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08be197031700f80800000000000000
+      internalID: -8142383673281431538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbdba85d84bca9f0800000000000000
+      internalID: -455790943100216365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092bda531be73b30800000000000000
+      internalID: 4267137640318052619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac5711b5a61dddb0800000000000000
+      internalID: -4765627929791603549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea647320598b1e20800000000000000
+      internalID: 3322400127401093856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626e0e1af841e440800000000000000
+      internalID: 4963328503422280301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d669a0c21548cd0800000000000000
+      internalID: -2556829438841557741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6837747c074220800000000000000
+      internalID: 2469956614991932217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04c8141b0b03470800000000000000
+      internalID: 8372385982637162697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_49
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5abc9578f7aa40800000000000000
+      internalID: 5379541463941668471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3558c19744a420800000000000000
+      internalID: 2640313973002812218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec85523ad7932210800000000000000
+      internalID: 1307055280270707948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f78938cc6cfea30800000000000000
+      internalID: 4246831555317104413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ced1fac99f31320800000000000000
+      internalID: 2527638267233168396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060e004fec5d6d50800000000000000
+      internalID: 6732139200630359553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 272
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e150da9deb9c900800000000000000
+      internalID: 705304658780167694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dcd97c98c412b90800000000000000
+      internalID: -7268444168956031591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdbdb1b7a94f790800000000000000
+      internalID: -7497197626125984533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0745ba614baf04300800000000000000
+      internalID: 234462832004650096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186b194169623e50800000000000000
+      internalID: 6787603454960035860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d83aba56fa0210800000000000000
+      internalID: 1300122311981584981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f7cfc11e525530800000000000000
+      internalID: 3842236862693896967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c1152bdc093740800000000000000
+      internalID: 5132147385724684474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6322ae77a845e30800000000000000
+      internalID: 4491366976029079281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b78248713b3e4a00800000000000000
+      internalID: 742596072219772853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00360251d732631d0800000000000000
+      internalID: -3371468250907909376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05211b4c9bf7cc00800000000000000
+      internalID: 920981297513440523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_67
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0a9ced8146f6d0800000000000000
+      internalID: -2957104027506438436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea997c8e1018526d0800000000000000
+      internalID: -3015862530254333522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9634b13c81bb00800000000000000
+      internalID: 842608750399757896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_70
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8bfaa908a29e400800000000000000
+      internalID: 353860777564682464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_71
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ee0305746c4260800000000000000
+      internalID: 7083146767672206024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62485fc40797de0800000000000000
+      internalID: -1334912338699737382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_73
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3d9beee7fa1ff0800000000000000
+      internalID: -64466639116223972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_74
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ff201b8716d780800000000000000
+      internalID: -8658707347533729272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e225161c9c5840800000000000000
+      internalID: 5214214087246014560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_76
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc854a652390ee220800000000000000
+      internalID: 2516959353553311947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad16309af2cf9df0800000000000000
+      internalID: -171203879399711317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ce00113802fd70800000000000000
+      internalID: 9075325205920793619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b94dab023dc150800000000000000
+      internalID: 5894422513031165583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef996368e9085d0800000000000000
+      internalID: -3062273447333069303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e63df64e448b80800000000000000
+      internalID: -8393497738708851891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ef7db8bdf72b80800000000000000
+      internalID: -8419482008450768305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08355091f7a4c7d90800000000000000
+      internalID: -7098717002901662848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c56567090f524b0800000000000000
+      internalID: -5465698069492900819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe0b6bd488cdcf0800000000000000
+      internalID: -226156013916459046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f85ef8960ee8150800000000000000
+      internalID: 5876881307755450159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97eedbba2ce52070800000000000000
+      internalID: 8081124774670952346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_88
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab01788d5636b90800000000000000
+      internalID: -7249838994483004698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3798da3cd137af70800000000000000
+      internalID: 9198375585877366589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_90
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c9b66360128e10800000000000000
+      internalID: 2198337587221479846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c35942f10873480800000000000000
+      internalID: -8919519665737876451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bbc8b488fe662c0800000000000000
+      internalID: -4438597014064940148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_93
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76ad0809e07b380800000000000000
+      internalID: -8955673320203065348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_94
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80230c4533fe70ac0800000000000000
+      internalID: -3888876749466881528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_95
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98f89c4fa7abc60800000000000000
+      internalID: 7834709693536635370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_96
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 176
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95defb58188b0df90800000000000000
+      internalID: -6930836960088953511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a119bcd10b76ce0800000000000000
+      internalID: -1411966316141536704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bb25a5894ac920800000000000000
+      internalID: 3011300139201179757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2c0f9c9003bdc0800000000000000
+      internalID: -3624552602419843887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63699b5fda431330800000000000000
+      internalID: 3680367643666768749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1d2ae0076942a0800000000000000
+      internalID: -6752752912638862175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0bacd9d68bc8d0800000000000000
+      internalID: -2825016070976631468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01baaff854a97e0800000000000000
+      internalID: -1758016219846602515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_104
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba1ee57b0fb63f0800000000000000
+      internalID: -906366229623493691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecbd4bb1ab098a50800000000000000
+      internalID: 6523758324482948335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3046ea3c3fff52c0800000000000000
+      internalID: -4440550073412730820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694ff704151b22a0800000000000000
+      internalID: -6761287239788967579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_108
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34257b618dfcd90800000000000000
+      internalID: -7075198897499257919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de720b297be3d360800000000000000
+      internalID: 7193351935485968088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfcd272b9a39f50800000000000000
+      internalID: 6887034839075978105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84198f13316556730800000000000000
+      internalID: 3991691285176553800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_112
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c829207b9a15e310800000000000000
+      internalID: 1433581311291369669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caede15ea263c2330800000000000000
+      internalID: 3687381752770125484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_114
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939dd1fbcb4e12020800000000000000
+      internalID: 2315383182756534585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ef14492d525300800000000000000
+      internalID: 239356162022040170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_116
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a7924c31aa52400800000000000000
+      internalID: 298831952162159187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_117
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf783bd043cac7a30800000000000000
+      internalID: 4214432690880088060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f40c26d180ecc0800000000000000
+      internalID: -3683801738327560078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_119
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c15e70f01b0b40800000000000000
+      internalID: 5407434402685896102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_120
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da77a90eeeaf6a0800000000000000
+      internalID: -6414552070804230801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_121
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348470f0362bd4a0800000000000000
+      internalID: -6567613639955282890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0159a322f578b820800000000000000
+      internalID: 2934224840072712459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64fb5bd297bc9dd0800000000000000
+      internalID: -2477903853587270546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f58de885478ebd40800000000000000
+      internalID: 5602063719215236599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5e80a941e0d630800000000000000
+      internalID: 3949904579546472141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef872a584d2c63b00800000000000000
+      internalID: 808047401190455550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_127
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ecef289242aedd0800000000000000
+      internalID: -2456110886067188171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_128
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d38608c51009d3d0800000000000000
+      internalID: -3181511568210361388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_129
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e40fbd07f644cf70800000000000000
+      internalID: 9206561565153625321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857c4b7f789bd7f0800000000000000
+      internalID: -586707653144840825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96a744c3d3c1bd0800000000000000
+      internalID: -2658182350999229964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846677f912499010800000000000000
+      internalID: 1196059855336924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statue_133
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dd8e2f909b246e0800000000000000
+      internalID: -1854716644142031603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
