@@ -22513,6 +22513,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBoxPrefabs: []
   playerController: {fileID: 1806040053}
+  mainMenu: {fileID: 0}
+  battleUI: {fileID: 0}
 --- !u!114 &770327206
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22758,7 +22760,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 866964002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.5, y: 4, z: 0}
+  m_LocalPosition: {x: -18.5, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -23787,7 +23789,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1216611147}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.5, y: 4, z: 0}
+  m_LocalPosition: {x: -15.5, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -23915,7 +23917,6 @@ MonoBehaviour:
   targetDirection: {x: 0, y: 1}
   doorAnim: {fileID: 1315560910}
   transitionAnim: {fileID: 823047454}
-  transition: {fileID: 823047453}
 --- !u!212 &1315560908
 SpriteRenderer:
   m_ObjectHideFlags: 0

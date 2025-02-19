@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
+using System.Collections.Generic;
 
 public class MusicManager : MonoBehaviour
 {
     public static MusicManager Instance { get; private set; } // Instância Singleton
     public AudioSource audioSource; // Referência ao AudioSource
-    public AudioClip musicClip; // O tema musical
+    public List<AudioClip> musicClips; // Lista de músicas
 
     private void Awake()
     {
@@ -16,6 +17,7 @@ public class MusicManager : MonoBehaviour
         else
         {
             Destroy(gameObject); // Se já existir uma instância, destrua essa nova
+            return;
         }
 
         if (audioSource == null) // Se não tiver um AudioSource no componente
@@ -23,12 +25,24 @@ public class MusicManager : MonoBehaviour
             audioSource = GetComponent<AudioSource>();
         }
 
-        // Se a música ainda não estiver tocando, tocá-la
-        if (audioSource.clip != musicClip)
+        // Se a lista tiver pelo menos uma música, toca a primeira
+        if (musicClips.Count > 0 && audioSource.clip == null)
         {
-            audioSource.clip = musicClip;
-            audioSource.Play();
+            PlayMusic(0);
         }
+    }
+
+    // Função para tocar uma música específica pelo índice na lista
+    public void PlayMusic(int index)
+    {
+        if (index < 0 || index >= musicClips.Count)
+        {
+            Debug.LogWarning("Índice de música inválido!");
+            return;
+        }
+
+        audioSource.clip = musicClips[index];
+        audioSource.Play();
     }
 
     // Função para parar a música

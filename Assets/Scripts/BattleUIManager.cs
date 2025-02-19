@@ -13,6 +13,9 @@ public class BattleUIManager : MonoBehaviour
 
     [SerializeField] private Text messageText;
 
+    [SerializeField] private Slider atbSliderPlayer;
+    [SerializeField] private Slider atbSliderEnemy;
+
     public static BattleUIManager Instance { get; private set; }
 
     private void Awake()
@@ -44,5 +47,11 @@ public class BattleUIManager : MonoBehaviour
     public void UpdateMessage(string message)
     {
         messageText.text = message;
+    }
+
+    public void UpdateATBUI(Character character, float atbValuePlayers, float atbValueEnemy)
+    {
+        atbSliderPlayer.value = atbValuePlayers / 100f; // Normaliza para 0-1
+        atbSliderEnemy.value = atbValueEnemy / 100f;
     }
 }
